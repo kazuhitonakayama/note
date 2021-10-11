@@ -1,0 +1,18 @@
+- python staticmethod classmethod
+- python
+	- https://rinatz.github.io/python-book/ch08-02-pytest/
+- three.js
+- React Native
+- Flutter
+- React
+- Next
+- js
+	- https://jsprimer.net/
+- ajax
+- inner join , select, distinct
+	- https://pikawaka.com/rails
+- dockerでのbundle install
+- GraphQL
+- mongoDB
+	- https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf
+- 
