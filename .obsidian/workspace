@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なぜ受けたいか.md",
+            "file": "defaultdict.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "なぜ受けたいか.md",
+                "file": "defaultdict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2117e63c09e76439",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Python/pytestでのオプション.md",
+    "Python/copyとdeepcopyについて.md",
     "なぜ受けたいか.md",
     "CSS/Gridレイアウトで要素を重ねてみよう.md",
     "ライフスタイル/エネルギーを高めるには.md",
     "ライフスタイル/ライフスタイル.md",
-    "Python/pytestでのオプション.md",
     "base knowledge/真偽値を返すメソッドの命名.md",
     "base knowledge/shell script.md",
-    "base knowledge/base knowledge.md",
-    "Ruby/sort_byとsortの違い.md",
-    "Ruby/テーブルの内部結合とかの話.md"
+    "base knowledge/base knowledge.md"
   ]
 }
