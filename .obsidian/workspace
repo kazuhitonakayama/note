@@ -7,11 +7,8 @@
         "id": "2117e63c09e76439",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "defaultdict.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "defaultdict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "2117e63c09e76439",
   "lastOpenFiles": [
+    "defaultdict.md",
     "Untitled.md",
     "Python/pytestでのオプション.md",
     "Python/copyとdeepcopyについて.md",
@@ -96,7 +93,6 @@
     "ライフスタイル/エネルギーを高めるには.md",
     "ライフスタイル/ライフスタイル.md",
     "base knowledge/真偽値を返すメソッドの命名.md",
-    "base knowledge/shell script.md",
-    "base knowledge/base knowledge.md"
+    "base knowledge/shell script.md"
   ]
 }
