@@ -7,8 +7,11 @@
         "id": "2117e63c09e76439",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "three.js/three.js.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "three.js/three.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "2117e63c09e76439",
   "lastOpenFiles": [
-    "defaultdict.md",
+    "three.js/three.js.md",
     "Untitled.md",
+    "defaultdict.md",
     "Python/pytestでのオプション.md",
     "Python/copyとdeepcopyについて.md",
     "なぜ受けたいか.md",
     "CSS/Gridレイアウトで要素を重ねてみよう.md",
     "ライフスタイル/エネルギーを高めるには.md",
     "ライフスタイル/ライフスタイル.md",
-    "base knowledge/真偽値を返すメソッドの命名.md",
-    "base knowledge/shell script.md"
+    "base knowledge/真偽値を返すメソッドの命名.md"
   ]
 }
