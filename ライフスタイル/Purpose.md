@@ -8,4 +8,8 @@
 - 誰かのためにしたことよりも、誰かにしてもらったことを大切にする。ずっと覚えておく
 - 周りにも伝わるポジティブと、自己評価には適度なネガティブを
 
+## Donate to
+- CLACK 3000yen/month
+- [Henning Dieterichs](https://github.com/hediet) made Drawio $10/month
+
 [[ライフスタイル]]
