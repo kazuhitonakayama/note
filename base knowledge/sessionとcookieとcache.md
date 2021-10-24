@@ -1,0 +1,1 @@
+[注意点](https://developer.mozilla.org/ja/docs/Web/Security/Referer_header:_privacy_and_security_concerns)
