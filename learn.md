@@ -15,4 +15,5 @@
 - GraphQL
 - mongoDB
 	- https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf
-- 
+- Webアクセサビリテ
+- デザイン
