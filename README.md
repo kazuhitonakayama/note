@@ -9,7 +9,7 @@ These notes are written by [Obsidian](https://obsidian.md/).
   'profile': {
     'name': "Kazuhito Nakayama",
   	'name_kanji': "中山一仁",
-    'skill': ['Ruby', 'python', 'java', 'AWS'],
+    'skill': ['Ruby', 'python', 'java', 'AWS', 'LINE Messageing API', 'Rails', 'Spring'],
     'like': "好きなものはjson、漫画",
     'favorite manga': [
       "僕のヒーロアカデミア",
