@@ -7,8 +7,11 @@
         "id": "2117e63c09e76439",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Python/配列の要素追加でappendとextend.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/配列の要素追加でappendとextend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "2117e63c09e76439",
   "lastOpenFiles": [
+    "Python/配列の要素追加でappendとextend.md",
+    "Ruby/python.md",
     "three.js/three.js.md",
     "Untitled.md",
     "defaultdict.md",
@@ -91,8 +97,6 @@
     "Python/copyとdeepcopyについて.md",
     "なぜ受けたいか.md",
     "CSS/Gridレイアウトで要素を重ねてみよう.md",
-    "ライフスタイル/エネルギーを高めるには.md",
-    "ライフスタイル/ライフスタイル.md",
-    "base knowledge/真偽値を返すメソッドの命名.md"
+    "ライフスタイル/エネルギーを高めるには.md"
   ]
 }
