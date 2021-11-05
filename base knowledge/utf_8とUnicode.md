@@ -16,6 +16,11 @@
 ## つまり 
 Unicodeは文字集合であり、UTF-8は符号化方式
 
+## 分かりやすい記事
+https://qiita.com/omiita/items/50814037af2fd8b2b21e
+- Unicodeが文字からコードポイントに変換するための表のようなもの。
+- UTF-8がコードポイントから符号に変換する方式
+
 
 ## 参照
 http://equj65.net/tech/charcode/
