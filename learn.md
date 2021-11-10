@@ -17,3 +17,9 @@
 	- https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf
 - Webアクセサビリテ
 - デザイン
+- リスコフの原則
+- デメテルの原則
+- DDoS攻撃はAvailabilityに対する攻撃
+- AOP 関心ごと 設計
+  - Aspect Oriented Programming
+  - https://qiita.com/katsutomu/items/473ced7a31ea3e459f42
