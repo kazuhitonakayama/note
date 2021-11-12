@@ -4,7 +4,7 @@ These notes are written by [Obsidian](https://obsidian.md/).
 
 ## Profile
 
-```json
+```
 {
   'profile': {
     'name': "Kazuhito Nakayama",
