@@ -2,6 +2,14 @@
 - python
 	- https://rinatz.github.io/python-book/ch08-02-pytest/
 - three.js
+  - https://and-ha.com/coding/three-js-start/
+  - https://2ngen.jp/blog/sugee_website/
+  - GSAP
+  - https://liginc.co.jp/553484
+  - https://www.to-r.net/media/scrolltrigger/
+  - https://ics.media/entry/210426/
+  - https://www.marukin-ad.co.jp/marulog/?p=1891
+  - https://suzunon.com/web-develop/javascript-scroll-animation/
 - React Native
 - Flutter
 - React
