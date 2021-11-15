@@ -1,5 +1,7 @@
 ## extend
 
+[Ruby のモジュールの基礎](https://numb86-tech.hatenablog.com/entry/2019/03/23/225421)
+
 ```ruby
 module SelfIntroduction
   def who_am_i(oneself)
