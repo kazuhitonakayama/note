@@ -31,3 +31,9 @@
 - AOP 関心ごと 設計
   - Aspect Oriented Programming
   - https://qiita.com/katsutomu/items/473ced7a31ea3e459f42
+- ansible
+- terraform
+- CDK
+- MVVMフレームワーク
+- tableplus
+- ニュートン法
