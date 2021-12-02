@@ -39,3 +39,8 @@
 - ニュートン法
 - コネクションプーリングの機能とは
 - 課題６の復讐
+- DAO
+- クリーンアーキテクチャ
+  - [Clean ArchitectureでAPI Serverを構築してみる](https://qiita.com/hirotakan/items/698c1f5773a3cca6193e#entities%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC)
+- ECSとFargate、terraform、ansible、CDKを試してみる
+- 
